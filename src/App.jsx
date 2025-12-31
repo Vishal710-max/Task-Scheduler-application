@@ -157,7 +157,7 @@ function App() {
         pauseOnHover
       />
       
-      <h1>Enhanced To-Do List</h1>
+      <h1>Task Scheduler Application</h1>
       
       <div className="stats">
         <div>Total: {tasks.length}</div>
