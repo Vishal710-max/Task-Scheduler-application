@@ -294,8 +294,8 @@ If you found this project helpful, please give it a ⭐️!
 
 **Made with ❤️ by Vishal Bhingarde**
 
-[![Star this repo](https://img.shields.io/github/stars/your-username/task-scheduler-app?style=social)](https://github.com/your-username/task-scheduler-app)
-[![Fork this repo](https://img.shields.io/github/forks/your-username/task-scheduler-app?style=social)](https://github.com/your-username/task-scheduler-app/fork)
+[![Star this repo](https://img.shields.io/github/stars/Vishal710-max/task-scheduler-app?style=social)](https://github.com/Vishal710-max/task-scheduler-app)
+[![Fork this repo](https://img.shields.io/github/forks/Vishal710-max/task-scheduler-app?style=social)](https://github.com/Vishal710-max/task-scheduler-app/fork)
 
 </div>
 
